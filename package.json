@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dwaypro/post-it-notes#readme",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "express": "^4.16.2",
     "pg": "^7.4.1",
     "sequelize": "^4.35.2",
